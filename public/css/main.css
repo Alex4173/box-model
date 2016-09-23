@@ -8,19 +8,32 @@ body {
 }
 
 .box-sm {
-
+  background-color:blue;
+  margin: auto;
 }
 
 .box-md {
+  background-color:red;
+  width: 80%;
+  height: 300px;
+
 
 }
 
 .box-lg{
-
+  background-color: yellow;
+  width: 1000px;
+  height: 400px;
+  margin-top: 50px;
+  padding-top: 150px;
+  padding-left: 175px;
+  margin-right: 25px;
+  margin-left: 25px;
+  padding-bottom: 110px;
 }
 
 .border{
-
+    border: 10px solid black;
 }
 
 #yellow {
